@@ -1,4 +1,4 @@
-# Flask-website mostly authorization page
+# Flask Authorization page
 
 ## This website was developed by Maksikos-ctrl
 
